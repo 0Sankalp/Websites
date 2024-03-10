@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #cfc7c78c;
+}
+
+.header {
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.about-section,
+.projects-section {
+    margin-top: 20px;
+}
+
+.intro-box,
+.contact-box,
+.project-box {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.intro-box h2,
+.contact-box h2,
+.project-box h3 {
+    margin-top: 0;
+}
